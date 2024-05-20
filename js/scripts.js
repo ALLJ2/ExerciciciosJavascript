@@ -20,7 +20,7 @@ console.log(75 - 5);
 // 5) Armazene em uma variável o valor 10 e em outra variável o valor 5 faça a multiplicação das duas variáveis
 const a = 10;
 const b = 5;
-console.log(a + b);
+console.log(a * b);
 
 
 // 6) Armazene na em uma variável o nome de uma fruta, a fruta vai se chamar banana, depois troque essa mesma variável para jaca
